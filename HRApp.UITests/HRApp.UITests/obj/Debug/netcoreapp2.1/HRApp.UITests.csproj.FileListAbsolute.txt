@@ -1,0 +1,9 @@
+C:\Users\Filip\source\repos\CSharpAutomationPractice\HRApp.UITests\HRApp.UITests\bin\Debug\netcoreapp2.1\HRApp.UITests.deps.json
+C:\Users\Filip\source\repos\CSharpAutomationPractice\HRApp.UITests\HRApp.UITests\bin\Debug\netcoreapp2.1\HRApp.UITests.dll
+C:\Users\Filip\source\repos\CSharpAutomationPractice\HRApp.UITests\HRApp.UITests\obj\Debug\netcoreapp2.1\HRApp.UITests.csprojAssemblyReference.cache
+C:\Users\Filip\source\repos\CSharpAutomationPractice\HRApp.UITests\HRApp.UITests\obj\Debug\netcoreapp2.1\HRApp.UITests.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\CSharpAutomationPractice\HRApp.UITests\HRApp.UITests\obj\Debug\netcoreapp2.1\HRApp.UITests.AssemblyInfoInputs.cache
+C:\Users\Filip\source\repos\CSharpAutomationPractice\HRApp.UITests\HRApp.UITests\obj\Debug\netcoreapp2.1\HRApp.UITests.AssemblyInfo.cs
+C:\Users\Filip\source\repos\CSharpAutomationPractice\HRApp.UITests\HRApp.UITests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Filip\source\repos\CSharpAutomationPractice\HRApp.UITests\HRApp.UITests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Filip\source\repos\CSharpAutomationPractice\HRApp.UITests\HRApp.UITests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
